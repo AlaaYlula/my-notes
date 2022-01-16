@@ -26,7 +26,7 @@ There are three factors that will help the devloper make a better decision:
     -  The value of a change (V)   
     -  The effort required to perform the change(E)  
 
-9. Solving Problems
+9. Solving Problems  
     -  Know exactly what is being asked  
     -  give your self time to plan and analyze the proplem  
     -  Divide the problem into smaller tasks.
@@ -55,10 +55,10 @@ The documentation is important so the a new devloper can understand the software
 We need the comments when the code is complex.  
 22. Picking Technologies  
 There is some factors you should consider before you start using technology:  
--  Is there active devlopment behind it?  
--  Will it continue to be maintained?  
--  How easy is it to switch away from?  
--  What does the community say about it?  
+    -  Is there active devlopment behind it?  
+    -  Will it continue to be maintained?  
+    -  How easy is it to switch away from?  
+    -  What does the community say about it?  
 23. Self-Development  
 Keep reading and updating your knowloge.  
 24. Don't be a hero  
