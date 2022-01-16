@@ -27,13 +27,16 @@ There are three factors that will help the devloper make a better decision:
 * The desirability of a change(D)  
 * The value of a change (V)   
 * The effort required to perform the change(E)  
+
 **9. Solving Problems**    
 * Know exactly what is being asked.    
 * give your self time to plan and analyze the proplem.    
 * Divide the problem into smaller tasks.  
+
 **10. Good enough is fine**  
 To make the coding easier you must
-- Start small, improve it, then extend.     
+- Start small, improve it, then extend.  
+
 **11. Predictions**    
 Don't be predict the future just be generic in what your software need to be.  
 **12. Assumptions**    
@@ -60,6 +63,7 @@ There is some factors you should consider before you start using technology:
 * Will it continue to be maintained?    
 * How easy is it to switch away from?    
 * What does the community say about it?  
+ 
 **23. Self-Development**    
 Keep reading and updating your knowloge.  
 **24. Don't be a hero**    
