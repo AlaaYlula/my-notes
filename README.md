@@ -24,13 +24,13 @@ It is important to reduce the effort of maintenance.
 Consistency make your code easier to understand.    
 **8. Prioritizing**    
 There are three factors that will help the devloper make a better decision:  
-    * The desirability of a change(D)  
-    * The value of a change (V)   
-    * The effort required to perform the change(E)  
+* The desirability of a change(D)  
+* The value of a change (V)   
+* The effort required to perform the change(E)  
 **9. Solving Problems**    
-    * Know exactly what is being asked.    
-    * give your self time to plan and analyze the proplem.    
-    * Divide the problem into smaller tasks.  
+* Know exactly what is being asked.    
+* give your self time to plan and analyze the proplem.    
+* Divide the problem into smaller tasks.  
 **10. Good enough is fine**  
 To make the coding easier you must
 - Start small, improve it, then extend.     
@@ -56,10 +56,10 @@ The documentation is important so the a new devloper can understand the software
 We need the comments when the code is complex.  
 **22. Picking Technologies**    
 There is some factors you should consider before you start using technology:    
-    * Is there active devlopment behind it?    
-    * Will it continue to be maintained?    
-    * How easy is it to switch away from?    
-    * What does the community say about it?  
+* Is there active devlopment behind it?    
+* Will it continue to be maintained?    
+* How easy is it to switch away from?    
+* What does the community say about it?  
 **23. Self-Development**    
 Keep reading and updating your knowloge.  
 **24. Don't be a hero**    
