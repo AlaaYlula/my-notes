@@ -9,11 +9,11 @@ Every devloper may faces some issues during programe the projects or maybe appea
 So there is some kye points the devloper must master.  
 
 **1. Conceiving The Purpose of Software**  
-    The devloper must know the purpose of the software he will write and how can make this software helpful for the user.  
+The devloper must know the purpose of the software he will write and how can make this software helpful for the user.  
 **2. The Goals of Software Design**    
-    The software must be design in easy way so it can be helpful for the devloper and the user.  
+The software must be design in easy way so it can be helpful for the devloper and the user.  
 **3. (Mis)understanding**  
-    The devloper must understand what he work with and what he wants to do.  
+The devloper must understand what he work with and what he wants to do.  
 **4. Simlicity**    
 The good devloper whose make the code as simple as he can so any one can understand it.  
 **5. Complexity**    
