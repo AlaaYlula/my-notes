@@ -17,7 +17,7 @@ The good devloper whose make the code as simple as he can so any one can underst
 5. Complexity  
 As we said before the devloper must know what he wants and make the every part of the code simple.  
 6. Maintenance  
-It is important to reduce the effort of maintenance  
+It is important to reduce the effort of maintenance.    
 7. Consistency  
 Consistency make your code easier to understand.    
 8. Prioritizing  
@@ -27,12 +27,12 @@ There are three factors that will help the devloper make a better decision:
     -  The effort required to perform the change(E)  
 
 9. Solving Problems  
-    -  Know exactly what is being asked  
-    -  give your self time to plan and analyze the proplem  
+    -  Know exactly what is being asked.    
+    -  give your self time to plan and analyze the proplem.    
     -  Divide the problem into smaller tasks.
 10. Good enough is fine
 To make the coding easier you must
-- Start small, improve it, then extend  
+- Start small, improve it, then extend.   
 11. Predictions  
 Don't be predict the future just be generic in what your software need to be.  
 12. Assumptions  
