@@ -9,21 +9,21 @@ Every devloper may faces some issues during programe the projects or maybe appea
 So there is some kye points the devloper must master.  
 
 **1. Conceiving The Purpose of Software**  
-    The devloper must know the purpose of the software he will write and how can make this software helpful for the user.  
+*Tabspace* The devloper must know the purpose of the software he will write and how can make this software helpful for the user.  
 **2. The Goals of Software Design**    
-    The software must be design in easy way so it can be helpful for the devloper and the user.  
+The software must be design in easy way so it can be helpful for the devloper and the user.  
 **3. (Mis)understanding**  
-    The devloper must understand what he work with and what he wants to do.  
+The devloper must understand what he work with and what he wants to do.  
 **4. Simlicity**    
-    The good devloper whose make the code as simple as he can so any one can understand it.  
+The good devloper whose make the code as simple as he can so any one can understand it.  
 **5. Complexity**    
-    As we said before the devloper must know what he wants and make the every part of the code simple.  
+As we said before the devloper must know what he wants and make the every part of the code simple.  
 **6. Maintenance**    
-    It is important to reduce the effort of maintenance.    
+It is important to reduce the effort of maintenance.    
 **7. Consistency**    
-    Consistency make your code easier to understand.    
+Consistency make your code easier to understand.    
 **8. Prioritizing**    
-    There are three factors that will help the devloper make a better decision:  
+There are three factors that will help the devloper make a better decision:  
 * The desirability of a change(D)  
 * The value of a change (V)   
 * The effort required to perform the change(E)  
