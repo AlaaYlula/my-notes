@@ -19,12 +19,13 @@ As we said before the devloper must know what he wants and make the every part o
 6. Maintenance  
 It is important to reduce the effort of maintenance  
 7. Consistency  
-Consistency make your code easier to understand.  
+Consistency make your code easier to understand.    
 8. Prioritizing  
-There are three factors that will help the devloper make a better decision:
-    - The desirability of a change(D)  
-    - The value of a change (V)   
-    - The effort required to perform the change(E)  
+There are three factors that will help the devloper make a better decision:  
+    -  The desirability of a change(D)  
+    -  The value of a change (V)   
+    -  The effort required to perform the change(E)  
+
 9. Solving Problems
     -  Know exactly what is being asked  
     -  give your self time to plan and analyze the proplem  
