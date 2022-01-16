@@ -1,12 +1,14 @@
 # my-notes
-# My Name is Ala' Alwazani  
+# 
+My Name is Ala' Alwazani  
 I graduated from JUST University with bachelor degree of Network Enginnering and security on 2014.  
 
-# Every devloper may faces some issues during programe the projects or maybe appear aftor ayear or more.  
+# 
+Every devloper may faces some issues during programe the projects or maybe appear aftor ayear or more.  
 
 So there is some kye points the devloper must master.  
 
-1. Conceiving The Purpose of Software  
+**1. Conceiving The Purpose of Software**  
 The devloper must know the purpose of the software he will write and how can make this software helpful for the user.  
 2. The Goals of Software Design  
 The software must be design in easy way so it can be helpful for the devloper and the user.  
